@@ -1,28 +1,28 @@
 opponent,win,lose
-Mario,1,0
-Donkey Kong,1,0
-Link,1,0
+Mario,2,0
+Donkey Kong,2,0
+Link,2,0
 Samus,3,0
 Dark Samus,2,0
 Yoshi,2,0
 Kirby,4,0
 Fox,2,0
 Pikachu,2,0
-Luigi,0,0
-Ness,1,0
-Captain Falcon,2,0
+Luigi,0,1
+Ness,2,0
+Captain Falcon,3,0
 Jigglypuff,0,1
 Peach,1,0
 Daisy,0,1
-Bowser,0,1
+Bowser,1,1
 Ice Climbers,1,0
-Sheik,0,1
+Sheik,2,1
 Zelda,2,0
 Dr. Mario,1,1
 Pichu,0,0
 Falco,0,1
-Marth,0,1
-Lucina,0,0
+Marth,1,1
+Lucina,1,0
 Young Link,2,0
 Ganondorf,2,1
 Mewtwo,1,1
@@ -30,30 +30,30 @@ Roy,1,0
 Chrom,1,0
 Mr. Game & Watch,1,1
 Meta Knight,2,0
-Pit,0,1
+Pit,1,1
 Dark Pit,0,1
 Zero Suit Samus,1,0
-Wario,2,1
+Wario,2,2
 Snake,2,0
-Ike,0,0
+Ike,1,0
 Pokémon Trainer,1,1
 Diddy Kong,2,0
 Lucas,1,0
 Sonic,1,0
-King DeDeDe,0,0
-Olimar,2,0
-Lucario,1,0
+King DeDeDe,1,0
+Olimar,3,1
+Lucario,2,0
 R.O.B.,2,0
 Toon Link,1,1
 Wolf,1,0
 Villager,1,0
 Mega Man,0,2
-Wii-Fit Trainer,1,0
-Rosalina & Luma,0,0
+Wii-Fit Trainer,2,0
+Rosalina & Luma,1,0
 Little Mac,2,0
 Greninja,1,2
 Palutena,3,0
-Pac-Man,2,0
+Pac-Man,3,0
 Robin,2,0
 Shulk,1,0
 Bowser JR.,1,1
@@ -62,8 +62,8 @@ Ryu,1,0
 Ken,2,0
 Cloud,1,0
 Corrin,1,0
-Bayonetta,1,0
-Inkling,0,0
+Bayonetta,2,0
+Inkling,0,1
 Ridley,1,0
 Simon,3,0
 Richter,1,0
